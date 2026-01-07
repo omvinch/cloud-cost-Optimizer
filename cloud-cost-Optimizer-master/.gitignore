@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+
+data
+hf_test_results.json
+
+test.py
+test2.py
+test3.py
+
+README.md
